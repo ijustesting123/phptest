@@ -19,4 +19,4 @@ class GumballMachine{
 		$this->setGumballs($this->getGumballs() -1);
 	}
 }
-
+?>
