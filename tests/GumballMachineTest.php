@@ -22,3 +22,4 @@ class GumballMachineTest extends TestCase
 		$this->assertEquals(99, $this->gumballMachineInstance->getGumballs());
 	}
 } 
+?>
